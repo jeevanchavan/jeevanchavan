@@ -47,11 +47,14 @@ Daily DSA practice using Java
 JavaScript fundamentals & practice  
 👉 https://github.com/jeevanchavan/JavaScript-Learns
 
+🔹 **Kanban Board** — UI practice  
+👉 https://github.com/jeevanchavan/Kanban-Board
+
 ---
 
 ## 📫 Connect With Me
-📧 Email: jeevanchavan143@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/jeevanchavan143
+📧 Email: jeevanchavan7273@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/jeevan-chavan-99a5a9317
 
 ---
 
