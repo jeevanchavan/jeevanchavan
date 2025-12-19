@@ -57,3 +57,16 @@ JavaScript fundamentals & practice
 ---
 
 ⭐ If you like my work, feel free to star my repos!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevanchavan&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanchavan&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jeevanchavan&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeevanchavan&theme=tokyo-night)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=jeevanchavan&theme=onedark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jeevanchavan&color=blue)
+
+
