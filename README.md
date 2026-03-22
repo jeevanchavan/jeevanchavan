@@ -1,87 +1,69 @@
-# Hi 👋 I'm Jeevan Chavan
+```
+╔══════════════════════════════════════════════════════╗
+║  jeevan@dev:~$  whoami                               ║
+╚══════════════════════════════════════════════════════╝
+```
 
-I'm a software engineering student from India 🇮🇳  
-I like building apps, solving DSA, and learning new tech.
-
----
-
-## 🚀 GitHub Stats
-![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevanchavan&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanchavan&layout=compact&theme=tokyonight)
+**Jeevan Chavan** — software engineering student, India 🇮🇳  
+Building things. Breaking things. Figuring it out.
 
 ---
 
-## 💡 About Me
-- 💻 I build **responsive websites**
-- 📘 I practice **Data Structures & Algorithms**
-- ☁️ Learning **Full Stack, Cloud, DevOps, Docker**
-- 🎯 Goal: become a strong **full-stack engineer**
+```bash
+$ cat interests.txt
+> full-stack development
+> data structures & algorithms (java main)
+> cloud, docker, devops — currently learning
+> responsive UI that actually works on mobile
+```
 
 ---
 
-## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### 🔧 what i work with
+
+`Java` &nbsp; `JavaScript` &nbsp; `Python` &nbsp; `HTML/CSS` &nbsp; `SCSS` &nbsp; `Flutter` &nbsp; `Git`
+
+*picking up →* `React` &nbsp; `Node.js` &nbsp; `Docker` &nbsp; `AWS`
 
 ---
 
-## 📌 Projects
-🔹 **Flutter Eco System Website**  
-Responsive UI built using Flutter  
-👉 https://github.com/jeevanchavan/Flutter-Eco-System-Website
+### 📂 projects worth checking
 
-🔹 **Responsive Landing Page**  
-HTML, CSS, SCSS practice project  
-👉 https://github.com/jeevanchavan/Responsive-Landing-Page
+```
+├── flutter-eco-system-website   → responsive UI in Flutter/web
+├── responsive-landing-page      → HTML + SCSS, mobile-first
+├── dsa-daily                    → daily Java DSA grind
+├── javascript-learns            → core JS, no frameworks
+└── kanban-board                 → drag-drop UI, vanilla JS
+```
 
-🔹 **DSA Daily**  
-Daily DSA practice using Java  
-👉 https://github.com/jeevanchavan/DSA-Daily
-
-🔹 **JavaScript Learns**  
-JavaScript fundamentals & practice  
-👉 https://github.com/jeevanchavan/JavaScript-Learns
-
-🔹 **Kanban Board** — UI practice  
-👉 https://github.com/jeevanchavan/Kanban-Board
+> all repos → [github.com/jeevanchavan](https://github.com/jeevanchavan)
 
 ---
 
-## 📫 Connect With Me
-📧 Email: jeevanchavan7273@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/jeevan-chavan-99a5a9317
+### 📈 activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevanchavan&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=jeevanchavan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
+</div>
 
 ---
 
-⭐ If you like my work, feel free to star my repos!
+### currently
+
+- 📖 grinding DSA — one problem at a time
+- 🛠️ building toward my first production full-stack app
+- 🎯 target: strong enough to ship, curious enough to never stop
 
 ---
 
-💡 GitHub Stats & Languages
+```
+╔══════════════════════════════════════════════════════╗
+║  jeevan@dev:~$ ./connect                             ║
+║  → jeevanchavan7273@gmail.com                        ║
+║  → linkedin.com/in/jeevan-chavan-99a5a9317           ║
+╚══════════════════════════════════════════════════════╝
+```
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevanchavan&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanchavan&layout=compact&theme=tokyonight)
-
-🔥 GitHub Streak 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jeevanchavan&theme=tokyonight)
-
-📊 Activity Graph 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeevanchavan&theme=tokyo-night)
-
-🏆 Trophy Section 
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=jeevanchavan&theme=onedark)
-
-👀 Visitor Counter 
-
-![Profile Views](https://komarev.com/ghpvc/?username=jeevanchavan&color=blue)
-
-
+![views](https://komarev.com/ghpvc/?username=jeevanchavan&style=flat-square&color=555&label=visitors)
